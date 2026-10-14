@@ -1,0 +1,6 @@
+{
+  "name": "e-Tempahan Prasekolah",
+  "description": "Sistem e-Tempahan Prasekolah untuk semakan jadual tempahan ruang, bilik mesyuarat, PSS dan kemudahan secara interaktif dengan sumber data Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
